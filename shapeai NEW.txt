@@ -1,0 +1,8 @@
+Enter the city name: pune
+-------------------------------------------------------------
+Weather Stats for - PUNE || 23 Jun 2021 | 03:29:09 PM
+-------------------------------------------------------------
+Current temperature is: 24.57 deg C
+Current weather desc : overcast clouds
+Current Humidity : 79 %
+Current wind speed : 4.11 kmph
